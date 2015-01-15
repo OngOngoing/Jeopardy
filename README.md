@@ -1,6 +1,7 @@
 # TeamKong
 
 ![TeamKong](/pic.jpg)
+![TeamKong](/label.png)
 
 1. Sorrawit Chancherngkit 5610545811
 2. Worapon Olanwanitchakul 5610546290
