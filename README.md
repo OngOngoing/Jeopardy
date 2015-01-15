@@ -13,4 +13,4 @@
 ## DOCs
 
 * [Vision](https://github.com/SSD2015/TeamKong/blob/master/docs/Vision.md)
-* [User Cases](https://github.com/SSD2015/TeamKong/blob/master/docs/Use%20Cases.md)
+* [Use Cases](https://github.com/SSD2015/TeamKong/blob/master/docs/Use%20Cases.md)
