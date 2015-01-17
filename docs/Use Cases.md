@@ -1,6 +1,7 @@
 User Stories
 ============
-As a teacher, I want to
+As a teacher, I want to review my lesson.
+
 As a student, so that I get credit, I want to join a quiz game.
 
 Informal Use Case
