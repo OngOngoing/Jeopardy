@@ -22,7 +22,7 @@ After contestant Enters the picking state, a bunch of questions available will b
 A question will be displayed on the screen, a contestant presses a button to indicate he can answer it. The moderator or game selects the first contestant who presses his button to answer the question. If contestant answer correctly he earns points otherwise he loses points equal to the point value of the question.
 
 ##UC6 : Continue to the next question
-After the answer is revealed, let the contestant choose the question again until there is no more question to answer.
+After the answer is revealed, if the answer is correct, let the contestant choose the question again until there is no more question or the contestant fail his answer, otherwise, let the contestant's opponent choose instead.
 
 ##UC7 : End the game and show the winner
 when the last question finishes and there's no more question to be answered. show the winner of the game which is calculated by the game point of each team.
