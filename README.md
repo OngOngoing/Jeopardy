@@ -15,4 +15,6 @@
 * [Vision](https://github.com/SSD2015/TeamKong/blob/master/docs/Vision.md)
 * [Use Cases](https://github.com/SSD2015/TeamKong/blob/master/docs/Use%20Cases.md)
 
+## Mock-up
+
 ![Mockup Image](/jeopardy.png)
