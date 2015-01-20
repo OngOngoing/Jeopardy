@@ -1,9 +1,9 @@
 # TeamKong
 
-![TeamKong](/pic.jpg)
+![TeamKong](/imgs/pic.jpg)
 
 
-![TeamKong](/label.png)
+![TeamKong](/imgs/label.png)
 
 1. Sorrawit Chancherngkit 5610545811
 2. Worapon Olanwanitchakul 5610546290
@@ -17,4 +17,4 @@
 
 ## Mock-up
 
-![Mockup Image](/jeopardy.png)
+![Mockup Image](/imgs/jeopardy.png)
