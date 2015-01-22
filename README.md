@@ -18,5 +18,3 @@
 ## Mock-up
 
 ![Mockup Image](/imgs/jeopardy.png)
-
-test
